@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
- inteiro numero1, numero2, soma
+    inteiro numero1, numero2, soma
     escreva ("Qual o primeiro numero ? ")
     leia (numero1)
     escreva ("Qual seu segundo numero ? ")
@@ -9,5 +9,3 @@ programa {
     escreva (soma)
   }
 }
- 
-
