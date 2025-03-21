@@ -1,11 +1,12 @@
 programa {
   funcao inicio() {
-    inteiro numero1, numero2, soma
-    escreva ("Qual o primeiro numero ? ")
-    leia (numero1)
+    inteiro n1, n2, div
+    escreva ("Qual seu primeiro numero ? ")
+    leia (n1)
     escreva ("Qual seu segundo numero ? ")
-    leia (numero2 )
-    soma =(numero1 + numero2)
-    escreva (soma)
+    leia (n2)
+
+    div=(n1/n2)
+    escreva (div)
   }
 }
